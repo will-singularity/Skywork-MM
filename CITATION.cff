@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you feel our work helpful, please cite it as below."
+authors:
+  - family-names: Skywork Multi-Modal Group
+title: "Empirical Study Towards Building An Effective Multi-Modal Large Language Model"
+version: 1.0.0
+date-released: 2023-09-01
